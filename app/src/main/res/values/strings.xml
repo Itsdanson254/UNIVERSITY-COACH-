@@ -22,11 +22,11 @@
     <string name="uni_to_stop">University -> Stop</string>
     <string name="stop_to_uni">Stop -> University</string>
     <string name="admin_details">Here you shout out rides.You thumbs up Aussie rides from their appropriate details page .</string>
-    <string name="cancel">Annuler</string>
-    <string name="caution">Avertissement</string>
-    <string name="confirm_report">Signaler un retard?</string>
-    <string name="confirm_remove_report">Retirer votre signalement?</string>
-    <string name="delete_route">Êtes-vous sûr de vouloir definitivement supprimer ce trajet?</string>
+    <string name="cancel">Cancel</string>
+    <string name="caution">Warning</string>
+    <string name="confirm_report">Report a delay?</string>
+    <string name="confirm_remove_report">Withdraw your report?</string>
+    <string name="delete_route">Are you sure you definitely want to delete this route?</string>
     <string name="reported_delays0">Retard signalé par</string>
     <string name="reported_delays1">étudiant(s) aujourd\'hui</string>
     <string name="add_report">Êtes-vous sûr de vouloir signaler un retard pour cet horaire?</string>
