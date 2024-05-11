@@ -114,47 +114,47 @@ class AdminPanelFragment : Fragment(R.layout.fragment_admin_panel) {
     // Uni To Stop schedule preset
     private val utsList = mutableListOf(
         hashMapOf(
-            "ordre" to 1,
+            "order" to 1,
             "depart" to "09:00",
             "arrive" to "09:30"
         ),
         hashMapOf(
-            "ordre" to 2,
+            "order" to 2,
             "depart" to "10:00",
             "arrive" to "10:30"
         ),
         hashMapOf(
-            "ordre" to 3,
+            "order" to 3,
             "depart" to "11:00",
             "arrive" to "11:30"
         ),
         hashMapOf(
-            "ordre" to 4,
+            "order" to 4,
             "depart" to "12:00",
             "arrive" to "12:30"
         ),
         hashMapOf(
-            "ordre" to 5,
+            "order" to 5,
             "depart" to "13:00",
             "arrive" to "13:30"
         ),
         hashMapOf(
-            "ordre" to 6,
+            "order" to 6,
             "depart" to "14:00",
             "arrive" to "14:30"
         ),
         hashMapOf(
-            "ordre" to 7,
+            "order" to 7,
             "depart" to "15:00",
             "arrive" to "15:30"
         ),
         hashMapOf(
-            "ordre" to 8,
+            "order" to 8,
             "depart" to "16:00",
             "arrive" to "16:30"
         ),
         hashMapOf(
-            "ordre" to 9,
+            "order" to 9,
             "depart" to "17:00",
             "arrive" to "17:30"
         )
@@ -163,42 +163,42 @@ class AdminPanelFragment : Fragment(R.layout.fragment_admin_panel) {
     // Stop To Uni schedule preset
     private val stuList = mutableListOf(
         hashMapOf(
-            "ordre" to 1,
+            "order" to 1,
             "depart" to "07:30",
             "arrive" to "08:00"
         ),
         hashMapOf(
-            "ordre" to 2,
+            "order" to 2,
             "depart" to "08:00",
             "arrive" to "08:30"
         ),
         hashMapOf(
-            "ordre" to 3,
+            "order" to 3,
             "depart" to "08:30",
             "arrive" to "09:00"
         ),
         hashMapOf(
-            "ordre" to 4,
+            "order" to 4,
             "depart" to "09:00",
             "arrive" to "09:30"
         ),
         hashMapOf(
-            "ordre" to 5,
+            "order" to 5,
             "depart" to "10:00",
             "arrive" to "10:30"
         ),
         hashMapOf(
-            "ordre" to 6,
+            "order" to 6,
             "depart" to "11:00",
             "arrive" to "11:30"
         ),
         hashMapOf(
-            "ordre" to 7,
+            "order" to 7,
             "depart" to "12:00",
             "arrive" to "12:30"
         ),
         hashMapOf(
-            "ordre" to 8,
+            "order" to 8,
             "depart" to "13:00",
             "arrive" to "13:30"
         )
