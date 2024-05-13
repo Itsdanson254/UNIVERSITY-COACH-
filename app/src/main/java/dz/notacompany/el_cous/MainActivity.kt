@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
 
         githubButton.setOnClickListener {
             val openURL = Intent(Intent.ACTION_VIEW)
-            openURL.data = Uri.parse("https://github.com/50t0r25/EL-Cous")
+            openURL.data = Uri.parse("https://github.com/Itsdanson254/UNIVERSITY-COACH.git")
             startActivity(openURL)
         }
 
