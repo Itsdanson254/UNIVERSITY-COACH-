@@ -27,12 +27,12 @@
     <string name="confirm_report">Report a delay?</string>
     <string name="confirm_remove_report">Withdraw your report?</string>
     <string name="delete_route">Are you sure you definitely want to delete this route?</string>
-    <string name="reported_delays0">Retard signalé par</string>
-    <string name="reported_delays1">étudiant(s) aujourd\'hui</string>
-    <string name="add_report">Êtes-vous sûr de vouloir signaler un retard pour cet horaire?</string>
-    <string name="remove_report">Êtes-vous sûr de vouloir annuler votre signalement de retard pour cet horaire?</string>
-    <string name="help">Aide</string>
-    <string name="help_title">EL Cous, c\'est quoi?</string>
-    <string name="help_description">EL Cous est une application de gestion des horaires pour les bus Universitaire "Cous".\nElle vous permet de rechercher tous les horaires disponible pour chaque trajet de bus, vous pouver aussi signaler le retard d\'un bus si vous êtes sur place pour informer les autres étudiants.\n\nLes administrateurs peuvent également accéder a l\'espace administrateur avec la clé pour ajouter ou supprimer des trajets.</string>
-    <string name="_return">Retour</string>
+    <string name="reported_delays0">Delay report by</string>
+    <string name="reported_delays1">student(s)today</string>
+    <string name="add_report">Are you sure you want to report a delay of this schedule?</string>
+    <string name="remove_report">Are you sure you want to cancel the lateness report for this schedule?</string>
+    <string name="help">Help</string>
+    <string name="help_title">What is it?</string>
+    <string name="help_description">EL Cous is timetable management application for "Cous" university buses.It allows you to search all timetables for each bus trip ,you can also report the delay of a bus if you are on site to inform other students. The administrator present get to access the administrator area with the key to add or delete trips.</string>
+    <string name="_return">Back</string>
 </resources>
